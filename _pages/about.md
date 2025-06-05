@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student in the College of Computer Science and Technology at National University of Defense Technology (NUDT), jointly advised by Prof.LiuXinwang. Before joining NUDT, I received my B.S. in the School of Artificial Intelligence at Hebei University of Technology.
+I am a master's student in the College of Computer Science and Technology at National University of Defense Technology (NUDT), jointly advised by [Prof.LiuXinwang](https://xinwangliu.github.io/). Before joining NUDT, I received my B.S. in the School of Artificial Intelligence at Hebei University of Technology.
 
 My researchh interest includes AI Safety, such as LLM Fairness and Graph Adversarial Robustness .
 
