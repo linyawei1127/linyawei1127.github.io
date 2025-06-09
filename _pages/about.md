@@ -22,16 +22,16 @@ I am a master's student in the College of Computer Science and Technology at Nat
 My research interest includes AI Safety, such as LLM Fairness and Graph Adversarial Robustness.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 He won the Outstanding Graduate of Hebei Province.
+- *2025.05*: &nbsp;🎉🎉 He won the Outstanding Graduate of Hebei Province.
 
 # 📝 Publications 
 
 # 🎖 Honors and Awards
 - *2025.05* Outstanding Graduate of Hebei Province. 
-- *2021.09* He won the National Scholarship. 
+- *2024.09* He won the National Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, National University of Defense Technology, the College of Computer Science and Technology, Changsha, China. 
+- *2019.06 - now*, National University of Defense Technology, the College of Computer Science and Technology, Changsha, China. 
 - *2021.09 - 2025.06*, Hebei University of Technology, the School of Artificial Intelligence, Tianjin, China. 
 
 # 💬 Invited Talks
