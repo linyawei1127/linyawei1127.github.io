@@ -38,3 +38,5 @@ My research interest includes AI Safety, such as LLM Fairness and Graph Adversar
 
 # 💻 Internships
 
+# 📚 Read Papers
+This section contains my reading notes and summaries of important research papers in AI Safety, LLM Fairness, and Graph Adversarial Robustness.
