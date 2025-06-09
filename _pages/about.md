@@ -44,7 +44,7 @@ This section contains my reading notes and summaries of important research paper
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='/images/trimmed_use_case_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Actionable Framework For Assessing Bias and  Fairness in Large Language Model Use Cases](assets/pdf/2024_llm_fairness.pdf)
+[An Actionable Framework For Assessing Bias and  Fairness in Large Language Model Use Cases](/assets/pdf/2024_llm_fairness.pdf)
 
 Dylan Bouchard
 
