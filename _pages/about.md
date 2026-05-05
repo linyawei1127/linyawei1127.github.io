@@ -26,7 +26,7 @@ My research interests include AI Safety, such as LLM Fairness and Graph Adversar
 - *2025.05*: &nbsp;🎉🎉 He won the Outstanding Graduate of Hebei Province.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='/images/trimmed_use_case_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS</div><img src='/images/pipline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/11503437)
@@ -35,7 +35,7 @@ Yawei Lin, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang, Xinwang Liu
 
 [**Abstract**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 。 
+- In this paper, we propose PathAttack, the first method to leverage explainable paths for adversarial attacks on knowledge graph embedding models. Experimental results demonstrate that, while maintaining strong attack effectiveness, the proposed approach can also scale to large datasets such as OGBL-WikiKG2.
 </div>
 </div>
 
