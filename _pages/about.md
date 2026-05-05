@@ -31,7 +31,7 @@ My research interests include AI Safety, such as LLM Fairness and Graph Adversar
 
 [Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/11503437)
 
-Yawei Lin, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang, Xinwang Liu
+**Yawei Lin**, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang, Xinwang Liu
 
 [**Abstract**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
